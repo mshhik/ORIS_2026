@@ -15,7 +15,7 @@ class Playlist():
         for song in self.songs:
             if song['name'] == name:
                 self.songs.remove(song)
-    
+                return
     
     def total_duration(self):
         total = 0
