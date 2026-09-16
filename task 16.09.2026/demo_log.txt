@@ -1,0 +1,5 @@
+По скольку я сделал только два файла - протокол и сервер, запуск произвоидлся напрямую.
+При запуске сервера в консоли отображается штатный вывод:
+
+PS C:\Users\abdik\OneDrive\Desktop\ЕГЭ\информатика\vsc ЕГЭ\pip2.py\ОРИС 2026> & C:\Users\abdik\AppData\Local\Programs\Python\Python313\python.exe "c:/Users/abdik/OneDrive/Desktop/ЕГЭ/информатика/vsc ЕГЭ/pip2.py/ОРИС 2026/task 16.09.2026/server.py"
+[СЕРВЕР] Запущен...
